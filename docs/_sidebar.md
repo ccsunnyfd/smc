@@ -1,0 +1,65 @@
+<!-- docs/_sidebar.md -->
+
+* API参考
+  * [API概览](cn.zh-CN/API参考/API概览)
+  * [API简介](cn.zh-CN/API参考/API简介)
+  * [快速入门](cn.zh-CN/API参考/快速入门)
+  * [调用方式](cn.zh-CN/API参考/调用方式)
+  * 迁云任务
+	* [CreateReplicationJob](cn.zh-CN/API参考/迁云任务/CreateReplicationJob)
+	* [DeleteReplicationJob](cn.zh-CN/API参考/迁云任务/DeleteReplicationJob)
+	* [DescribeReplicationJobs](cn.zh-CN/API参考/迁云任务/DescribeReplicationJobs)
+	* [ModifyReplicationJobAttribute](cn.zh-CN/API参考/迁云任务/ModifyReplicationJobAttribute)
+	* [StartReplicationJob](cn.zh-CN/API参考/迁云任务/StartReplicationJob)
+	* [StopReplicationJob](cn.zh-CN/API参考/迁云任务/StopReplicationJob)
+  * 迁移源
+	* [DeleteSourceServer](cn.zh-CN/API参考/迁移源/DeleteSourceServer)
+	* [DescribeSourceServers](cn.zh-CN/API参考/迁移源/DescribeSourceServers)
+	* [ModifySourceServerAttribute](cn.zh-CN/API参考/迁移源/ModifySourceServerAttribute)
+* 产品定价
+  * [产品定价](cn.zh-CN/产品定价/产品定价)
+  * [计费概述](cn.zh-CN/产品定价/计费概述)
+* 产品简介
+  * [SMC客户端概述](cn.zh-CN/产品简介/SMC客户端概述)
+  * [什么是服务器迁移中心](cn.zh-CN/产品简介/什么是服务器迁移中心)
+  * [使用限制](cn.zh-CN/产品简介/使用限制)
+  * [迁移状态](cn.zh-CN/产品简介/迁移状态)
+* 常见问题
+  * [FAQ](cn.zh-CN/常见问题/FAQ)
+  * [联系我们](cn.zh-CN/常见问题/联系我们)
+* 快速入门
+  * 客户端迁移
+	* [下载并安装SMC客户端](cn.zh-CN/快速入门/客户端迁移/下载并安装SMC客户端)
+	* [入门概述](cn.zh-CN/快速入门/客户端迁移/入门概述)
+	* [准备工作](cn.zh-CN/快速入门/客户端迁移/准备工作)
+	* [查看迁移进度](cn.zh-CN/快速入门/客户端迁移/查看迁移进度)
+  * 控制台迁移
+	* [下载并安装SMC客户端](cn.zh-CN/快速入门/控制台迁移/下载并安装SMC客户端)
+	* [准备工作](cn.zh-CN/快速入门/控制台迁移/准备工作)
+	* [启动迁移任务](cn.zh-CN/快速入门/控制台迁移/启动迁移任务)
+	* [新建迁移任务](cn.zh-CN/快速入门/控制台迁移/新建迁移任务)
+	* [查看迁移进度](cn.zh-CN/快速入门/控制台迁移/查看迁移进度)
+* 最佳实践
+  * [使用SMC客户端Windows GUI版本](cn.zh-CN/最佳实践/使用SMC客户端Windows GUI版本)
+  * [使用SMC客户端一次性迁移模式](cn.zh-CN/最佳实践/使用SMC客户端一次性迁移模式)
+* 用户指南
+  * [修改迁移任务](cn.zh-CN/用户指南/修改迁移任务)
+  * [准备工作（迁移前必读）](cn.zh-CN/用户指南/准备工作（迁移前必读）)
+  * [删除迁移任务](cn.zh-CN/用户指南/删除迁移任务)
+  * [删除迁移源](cn.zh-CN/用户指南/删除迁移源)
+  * [启动迁移任务](cn.zh-CN/用户指南/启动迁移任务)
+  * [操作控制台](cn.zh-CN/用户指南/操作控制台)
+  * [操作迁移源](cn.zh-CN/用户指南/操作迁移源)
+  * [新建迁移任务](cn.zh-CN/用户指南/新建迁移任务)
+  * [查找迁移源](cn.zh-CN/用户指南/查找迁移源)
+  * [步骤一：导入迁移源](cn.zh-CN/用户指南/步骤一：导入迁移源)
+  * [步骤二：创建并启动迁移任务](cn.zh-CN/用户指南/步骤二：创建并启动迁移任务)
+  * [迁移前必读：准备工作](cn.zh-CN/用户指南/迁移前必读：准备工作)
+  * [迁移流程](cn.zh-CN/用户指南/迁移流程)
+  * [迁移流程概览](cn.zh-CN/用户指南/迁移流程概览)
+  * [迁移流程概述](cn.zh-CN/用户指南/迁移流程概述)
+* 相关协议
+  * [试用服务条款](cn.zh-CN/相关协议/试用服务条款)
+* 视频专区
+  * [Linux系统迁移指导视频](cn.zh-CN/视频专区/Linux系统迁移指导视频)
+  * [Windows系统迁移指导视频](cn.zh-CN/视频专区/Windows系统迁移指导视频)

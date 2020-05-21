@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+		search: {
+			maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+			paths: [
+				'cn.zh-CN/API参考/API概览',
+				'cn.zh-CN/API参考/API简介',
+				'cn.zh-CN/API参考/快速入门',
+				'cn.zh-CN/API参考/调用方式',
+				'cn.zh-CN/API参考/迁云任务/CreateReplicationJob',
+				'cn.zh-CN/API参考/迁云任务/DeleteReplicationJob',
+				'cn.zh-CN/API参考/迁云任务/DescribeReplicationJobs',
+				'cn.zh-CN/API参考/迁云任务/ModifyReplicationJobAttribute',
+				'cn.zh-CN/API参考/迁云任务/StartReplicationJob',
+				'cn.zh-CN/API参考/迁云任务/StopReplicationJob',
+				'cn.zh-CN/API参考/迁移源/DeleteSourceServer',
+				'cn.zh-CN/API参考/迁移源/DescribeSourceServers',
+				'cn.zh-CN/API参考/迁移源/ModifySourceServerAttribute',
+				'cn.zh-CN/产品定价/产品定价',
+				'cn.zh-CN/产品定价/计费概述',
+				'cn.zh-CN/产品简介/SMC客户端概述',
+				'cn.zh-CN/产品简介/什么是服务器迁移中心',
+				'cn.zh-CN/产品简介/使用限制',
+				'cn.zh-CN/产品简介/迁移状态',
+				'cn.zh-CN/常见问题/FAQ',
+				'cn.zh-CN/常见问题/联系我们',
+				'cn.zh-CN/快速入门/客户端迁移/下载并安装SMC客户端',
+				'cn.zh-CN/快速入门/客户端迁移/入门概述',
+				'cn.zh-CN/快速入门/客户端迁移/准备工作',
+				'cn.zh-CN/快速入门/客户端迁移/查看迁移进度',
+				'cn.zh-CN/快速入门/控制台迁移/下载并安装SMC客户端',
+				'cn.zh-CN/快速入门/控制台迁移/准备工作',
+				'cn.zh-CN/快速入门/控制台迁移/启动迁移任务',
+				'cn.zh-CN/快速入门/控制台迁移/新建迁移任务',
+				'cn.zh-CN/快速入门/控制台迁移/查看迁移进度',
+				'cn.zh-CN/最佳实践/使用SMC客户端Windows GUI版本',
+				'cn.zh-CN/最佳实践/使用SMC客户端一次性迁移模式',
+				'cn.zh-CN/用户指南/修改迁移任务',
+				'cn.zh-CN/用户指南/准备工作（迁移前必读）',
+				'cn.zh-CN/用户指南/删除迁移任务',
+				'cn.zh-CN/用户指南/删除迁移源',
+				'cn.zh-CN/用户指南/启动迁移任务',
+				'cn.zh-CN/用户指南/操作控制台',
+				'cn.zh-CN/用户指南/操作迁移源',
+				'cn.zh-CN/用户指南/新建迁移任务',
+				'cn.zh-CN/用户指南/查找迁移源',
+				'cn.zh-CN/用户指南/步骤一：导入迁移源',
+				'cn.zh-CN/用户指南/步骤二：创建并启动迁移任务',
+				'cn.zh-CN/用户指南/迁移前必读：准备工作',
+				'cn.zh-CN/用户指南/迁移流程',
+				'cn.zh-CN/用户指南/迁移流程概览',
+				'cn.zh-CN/用户指南/迁移流程概述',
+				'cn.zh-CN/相关协议/试用服务条款',
+				'cn.zh-CN/视频专区/Linux系统迁移指导视频',
+				'cn.zh-CN/视频专区/Windows系统迁移指导视频'
+			], // or 'auto'
+
+			// 支持本地化
+			placeholder: {
+				'/zh-cn/': '搜索',
+				'/': '输入关键字搜索'
+			},
+
+			// 支持本地化
+			noData: {
+				'/zh-cn/': '找不到结果',
+				'/': '找不到结果'
+			},
+			
+			// 搜索标题的最大程级, 1 - 6
+			depth: 3,
+
+			hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+
+			// To avoid search index collision
+			// between multiple websites under the same domain
+			namespace: 'website-1',
+		},
+	  
+		coverpage: true,
+		loadSidebar: true,
+		subMaxLevel: 3,
+		name: '',
+		repo: ''
+    }
+  </script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+</body>
+</html>
