@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
-
+* [提交说明](提交说明)
 * API参考
   * [API概览](cn.zh-CN/API参考/API概览)
   * [API简介](cn.zh-CN/API参考/API简介)
